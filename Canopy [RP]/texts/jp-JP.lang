@@ -518,10 +518,10 @@ commands.camera.invalidaction=§c無効なカメラ操作です。構文が間�
 
 commands.canopy=Canopyルールをオン/オフできます。
 commands.canopy.version=CanopyとロードされたすべてのCanopy拡張機能(例:Construct)のバージョンを表示します。
-commands.canopy.version.message=§7This server is running §l§aCanopy§r
-commands.canopy.version.extensions=§7Loaded extensions:
-commands.canopy.menu=Displays a menu to toggle rules.
-commands.canopy.menu.busy=§8Close your chat window to access the form.
+commands.canopy.version.message=§7このサーバーでは §l§aCanopy§r §7が作動しています。
+commands.canopy.version.extensions=§7ロードされたCanopy拡張機能:
+commands.canopy.menu=Canopyルールをオン/オフするためのメニューを開きます。
+commands.canopy.menu.busy=§8チャットウィンドウを閉じることでメニューにアクセス可能です。
 commands.canopy.menu.timeout=§8Form timed out after %s ticks.
 commands.canopy.menu.canceled=§8Form canceled. Rules were not updated.
 commands.canopy.menu.submit=§aApply
