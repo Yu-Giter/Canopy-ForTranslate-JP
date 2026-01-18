@@ -500,8 +500,8 @@ commands.butcher.fail.noneremoved=§cエンティティは消去されません�
 commands.butcher.success=§7%1 を消去しました。
 commands.butcher.success.many=§7%1 のエンティティを消去しました:
 
-commands.camera=カメラを配置/カメラに視点切り替えあるいはサバイバルでも使用しやすいスペクテイターモードを切り替えます。
-commands.camera.spectate=サバイバルでも使用しやすいスペクテイターモードへ切り替えます。
+commands.camera=カメラを配置/カメラに視点切り替えあるいはサバイバル向けスペクテイターモードへ切り替えます。
+commands.camera.spectate=サバイバル向けスペクテイターモードへ切り替えます。
 commands.camera.place.viewing=§cカメラを見ている間は他のカメラを配置することはできません。
 commands.camera.place.success=§7%s にカメラが配置されました。
 commands.camera.view.spectating=§cスペクテイターモード中はカメラを見ることができません。
@@ -509,10 +509,10 @@ commands.camera.view.fail=§cまだ1つもカメラが配置されていませ�
 commands.camera.view.dimension=§cカメラを見るには %s ディメンションへ行ってください。
 commands.camera.view.started=§aカメラ視点へ切り替えます。
 commands.camera.view.ended=§7カメラ視点を終了しました。
-commands.camera.spectate.viewing=§cYou cannot spectate while viewing a camera.
-commands.camera.spectate.gamemode=§cYou cannot change your gamemode while spectating.
-commands.camera.spectate.started=§aSpectating
-commands.camera.spectate.ended=§7Spectating ended
+commands.camera.spectate.viewing=§cカメラ視点中はスペクテイターモードに切り替えできません。
+commands.camera.spectate.gamemode=§cサバイバル向けスペクテイターモード中はゲームモードを変更できません。
+commands.camera.spectate.started=§aスペクテイターモード 起動
+commands.camera.spectate.ended=§7スペクテイターモード 無効化
 commands.camera.spectate.hardcore=§cPrevented you from spectating. Spectating in hardcore mode has a soft-locking bug. This is a Mojang issue.
 commands.camera.invalidaction=§cInvalid camera action.
 
