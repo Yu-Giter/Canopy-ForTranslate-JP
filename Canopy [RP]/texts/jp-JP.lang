@@ -513,7 +513,7 @@ commands.camera.spectate.viewing=§cカメラ視点中はスペクテイター�
 commands.camera.spectate.gamemode=§cサバイバル向けスペクテイターモード中はゲームモードを変更できません。
 commands.camera.spectate.started=§aスペクテイターモード 起動
 commands.camera.spectate.ended=§7スペクテイターモード 無効化
-commands.camera.spectate.hardcore=§cPrevented you from spectating. Spectating in hardcore mode has a soft-locking bug. This is a Mojang issue.
+commands.camera.spectate.hardcore=§c現在この操作を行うとスペクテイターモードに軟禁されるバグがあるため、ハードコアモードでスペクテイターモードを起動することはできません。このバグはCanopyのバグではなく、ゲームサイドのバグです。
 commands.camera.invalidaction=§cInvalid camera action.
 
 commands.canopy=Enable or disable a rule.
